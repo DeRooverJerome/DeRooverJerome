@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hello, I'm Jérôme ! 👋
 
-<!--
-**DeRooverJerome/DeRooverJerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding journey! 🚀
 
-Here are some ideas to get you started:
+#### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and growing in the realms of software development.
+- 💼 I’m passionate about building user-friendly applications and crafting clean code.
+- 🔭 I enjoy exploring various technologies and diving deep into new frameworks.
+- 💡 I love brainstorming innovative ideas and transforming them into reality through code.
+
+#### Languages and Tools
+
+Here are some of the technologies I've been working with:
+
+- HTML/CSS/SASS
+- Javascript/REACT
+- NodeJS/Express
+- Git/GitHub
+
+#### Fun Facts
+
+- 🎮 When not coding, you'll find me gaming and exploring virtual worlds.
+- 🎬 I enjoy watching movies and anime series, exploring diverse genres and captivating storylines.
+- 🤖 I'm a big fan of Gunpla (Gundam plastic model kits) and enjoy building and customizing them.
+
+
+#### Let's Connect
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/jerome-deroover/)
+- [Personal Portfolio](https://derooverjerome.github.io/Portfolio-final/)
+

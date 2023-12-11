@@ -31,4 +31,6 @@ Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/jerome-deroover/)
 - [Personal Portfolio](https://derooverjerome.github.io/Portfolio-final/)
+- - [Email](derooverjdr@gmail.com)
+  
 

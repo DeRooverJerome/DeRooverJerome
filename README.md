@@ -15,6 +15,7 @@ Here are some of the technologies I've been working with:
 
 - HTML/CSS/SASS
 - Javascript/REACT
+- Wordpress
 - NextJs
 - NodeJS/Express
 - Git/GitHub

@@ -14,9 +14,10 @@ Welcome to my coding journey! 🚀
 Here are some of the technologies I've been working with:
 
 - HTML/CSS/SASS
-- Javascript/REACT
+- Javascript
 - Wordpress
-- NextJs
+- Twig
+- React/NextJs
 - NodeJS/Express
 - Git/GitHub
 
